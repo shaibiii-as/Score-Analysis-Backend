@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8a5f974.css",
+    "main.js": "/static/js/main.e2d6ec53.js",
+    "static/media/draw2.png": "/static/media/draw2.5f3486edb0545b14ab28.png",
+    "static/media/bars.png": "/static/media/bars.43f01ac39e5632213476.png",
+    "static/media/Orgovan-Brush.woff": "/static/media/Orgovan-Brush.d49108b701efed9be553.woff",
+    "static/media/Orgovan-Brush.woff2": "/static/media/Orgovan-Brush.76131f722601604f987a.woff2",
+    "index.html": "/index.html",
+    "main.e8a5f974.css.map": "/static/css/main.e8a5f974.css.map",
+    "main.e2d6ec53.js.map": "/static/js/main.e2d6ec53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a5f974.css",
+    "static/js/main.e2d6ec53.js"
+  ]
+}
